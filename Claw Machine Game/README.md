@@ -13,7 +13,7 @@ To use these blueprints you will first need to setup your scene with at least th
     * Renamed to Goal, uses an image.
       * I am using Icons/x.png
 * Prop
-    * Set to cat paw or anything else.
+    * Set to cat paw or anything else and attach it to the Claw Anchor.
       * For the paw the transform should be Position: x 0, y 0.2, z -0.3 Rotation: x 0, y 90, z -90)
 
 Let's start with the first blueprint which controls the logic. For this to work, make sure you add these variables:
